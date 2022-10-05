@@ -1,6 +1,7 @@
+![logo-marker](https://user-images.githubusercontent.com/102517425/193985562-1616e240-0bbb-4985-ac63-acbc2c1039c2.png) 
+<br>
 # **Toilet Finder**
 
-<br>
 
 Developers - Felipe Machado, Marie Matsumoto, Joe Sacco - CC27
 
