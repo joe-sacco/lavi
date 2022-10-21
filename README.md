@@ -2,11 +2,11 @@
 <br>
 # **Toilet Finder**
 
-
-Developers - Felipe Machado, Marie Matsumoto, Joe Sacco - CC27
+<img width="168" alt="iOS_app-screen1" src="https://user-images.githubusercontent.com/102517425/197111173-576b79fa-e99b-4bff-bce1-1a9a7d6b290b.png"> <img width="220" alt="iOS_app-screen2" src="https://user-images.githubusercontent.com/102517425/197111177-9ed7e3d6-b6dc-47b4-8694-1f58f9d55813.png"> <img width="240" alt="iOS_app-screen3" src="https://user-images.githubusercontent.com/102517425/197111567-343a4bfd-1b53-4cac-8a49-e07ef8d5c47e.png">
 
 ToiletFinder.com is a super convenient search tool powered by Google Maps for finding the closest bathroom to your location, immediately.
 
+Developers - Felipe Machado, Marie Matsumoto, Joe Sacco
 <br>
 
 ## *Why?*
