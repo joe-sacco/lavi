@@ -1,10 +1,14 @@
 ![logo-marker](https://user-images.githubusercontent.com/102517425/193985562-1616e240-0bbb-4985-ac63-acbc2c1039c2.png) 
 <br>
-# **Toilet Finder**
+# **Lavi**
 
-<img width="168" alt="iOS_app-screen1" src="https://user-images.githubusercontent.com/102517425/197111173-576b79fa-e99b-4bff-bce1-1a9a7d6b290b.png"> <img width="220" alt="iOS_app-screen2" src="https://user-images.githubusercontent.com/102517425/197111177-9ed7e3d6-b6dc-47b4-8694-1f58f9d55813.png"> <img width="240" alt="iOS_app-screen3" src="https://user-images.githubusercontent.com/102517425/197111567-343a4bfd-1b53-4cac-8a49-e07ef8d5c47e.png">
+<div>
+<img width="150" alt="iOS_app-screen2_LAVI_230315" src="https://user-images.githubusercontent.com/102517425/225241803-70a08d75-4c8c-47ac-9708-3ece2d114c02.png">
 
-ToiletFinder.com is a super convenient search tool powered by Google Maps for finding the closest bathroom to your location, immediately.
+<img width="180" alt="iOS_app-screen2_LAVI_230315" src="https://user-images.githubusercontent.com/102517425/225242202-5ff6c807-8c28-4c22-b7b2-cb9b97ee8d7c.png">
+</div>
+
+Lavi is a convenient search tool powered by geolocation for finding the closest bathroom to your location, immediately.
 
 Developers - Felipe Machado, Marie Matsumoto, Joe Sacco
 <br>
@@ -17,7 +21,7 @@ Hit the go button to find the closest bathroom as soon as possible.
 For people with more time, allow them to sort bathroom options based on a variety of use cases, such as public, private, kid friendly and accessibility.
 Provide open/closed info for each location and probability that a bathroom is available for public use.
 
-ToiletFinder.com is the only app that provides fast relief!
+Lavi is the only app that provides fast relief!
 
 <br>
 
